@@ -121,7 +121,7 @@ Further granularity is observed in the sales distribution across zip codes, with
 
 Ascent 5 frequently receives offers from clients to open stores in new territories. These offers are typically tied to specific zip codes or cities. Armed with data on our strongest performing areas, we can make informed decisions about whether to expand into new territories or consolidate our efforts in proven regions. This is particularly vital given the current constraints on our resources.
 
-Strategic Recommendations:
+#### Strategic Recommendations:
 
 Resource Allocation:
 Prioritize maintaining and possibly expanding resources in high-performing areas to capitalize on established customer bases and proven sales success.
