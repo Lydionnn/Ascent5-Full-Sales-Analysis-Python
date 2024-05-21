@@ -94,8 +94,48 @@ Denise Awoyemi is identified as requiring additional training in sales closure t
 
 Both Cedric Bloxson and Edith Herrera, while achieving notable sales volumes, have subpar installation rates of 10% and 20%, respectively. Focusing on quality over quantity and enhancing their customer engagement strategies could significantly improve their performance metrics.
 
+#### Territory Analysis For Potential New Offices
+### Key Geographical Insights for Strategic Business Decisions
+
+Understanding the geographical distribution of sales is paramount for Ascent 5, particularly in guiding strategic decisions regarding territorial expansion and resource allocation. The identification of high-performing cities and zip codes forms the basis of our strategic planning, ensuring optimal placement of resources and sales agents.
+
+
+### Top Performing Cities
+Our analysis indicates that the majority of sales transactions are concentrated in the following cities:
+1. Dallas
+2. Irving
+3. Lewisville
+
+![image](https://github.com/Lydionnn/Ascent5-Sales-Analysis/assets/112720987/e5554356-4d82-42f0-a2e4-81dd45f4ca07)
+
+
+### Top Performing Zipcodes
+Further granularity is observed in the sales distribution across zip codes, with the highest volumes recorded in:
+1. 75067
+2. 75216
+3. 75211
+4. 75217
+5. 75061
+
+![image](https://github.com/Lydionnn/Ascent5-Sales-Analysis/assets/112720987/4a378292-91d6-4ddd-b232-319f0d3d2bb9)
+
+Ascent 5 frequently receives offers from clients to open stores in new territories. These offers are typically tied to specific zip codes or cities. Armed with data on our strongest performing areas, we can make informed decisions about whether to expand into new territories or consolidate our efforts in proven regions. This is particularly vital given the current constraints on our resources.
+
+Strategic Recommendations:
+
+Resource Allocation:
+Prioritize maintaining and possibly expanding resources in high-performing areas to capitalize on established customer bases and proven sales success.
+
+Evaluation of New Territories:
+When evaluating potential new territories, compare the offered locations with our list of top-performing zip codes and cities. This comparison will indicate whether the new territory is likely to yield a high return on investment.
+
+Risk Management:
+Avoid expansion into lower-performing territories unless significant market research suggests potential for growth. This cautious approach will ensure that existing resources are utilized effectively without unnecessary risk.
+
 ### Conclusion and Recommendations
 
 Implementing a more comprehensive sales reporting system and strategically timed incentives can significantly influence sales dynamics and employee motivation at Ascent 5. These changes are anticipated to not only enhance direct sales outcomes but also promote a robust and supportive work environment conducive to sustained growth and success.
 
 This detailed evaluation underscores the need for targeted developmental interventions that align with individual agent performance metrics. By refining our training and recognition programs, we can not only enhance individual agent performance but also drive overall organizational growth and efficiency.
+
+In terms of territory The strategic allocation of resources based on geographical sales data will enable Ascent 5 to optimize its market presence and enhance profitability. This approach ensures that expansion efforts are aligned with historical performance data, thereby maximizing the likelihood of continued success.
