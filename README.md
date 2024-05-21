@@ -72,6 +72,9 @@ Further analysis reveals agents excelling in both sales volume and installation 
 - Juan Munoz
 - Junior Limon
 
+![image](https://github.com/Lydionnn/Ascent5-Sales-Analysis/assets/112720987/ed6559b5-2e7c-43dc-87a8-10815c7da735)
+
+
 These individuals demonstrate exceptional sales acumen coupled with high installation rates, making them prime candidates for promotion or increased recognition.
 
 ![image](https://github.com/Lydionnn/Ascent5-Sales-Analysis/assets/112720987/657d0b82-c4ab-4913-ba6d-7ce33382c024)
