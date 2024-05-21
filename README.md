@@ -14,6 +14,9 @@ The need for a comprehensive and transparent reporting system is crucial, as it 
 
 Analysis of weekly sales data revealed a significant increase during the week of November 20th (Week 8), coinciding with Black Friday and Thanksgiving. Discussions with the management team uncovered that seasonal incentives were offered to agents during this period, including increased commissions and tiered prizes for top performers. This strategy effectively stimulated a competitive environment and drove higher sales volumes.
 
+![image](https://github.com/Lydionnn/Ascent5-Sales-Analysis/assets/112720987/6a7fd1e3-7a61-4af4-81c9-bd781383efe8)
+
+
 #### Strategies for Enhancing Future Sales
 
 Historical data indicates a pattern of slow sales at the beginning of each quarter, with a noticeable dip towards the end of the fourth quarter. To counteract this trend, it is recommended to introduce strategic incentives during these identified periods. Such measures could serve to elevate agent motivation and performance.
@@ -36,6 +39,9 @@ Our analysis identifies the three agents who generated the highest number of tot
 - Cedric Bloxson: 210 sales
 - Edith Herrera: 189 sales
 
+![image](https://github.com/Lydionnn/Ascent5-Sales-Analysis/assets/112720987/8336004f-d1d4-48af-ac9d-4f7d8cfaaa06)
+
+
 #### Comparison with Installed Sales
 
 It is crucial to differentiate between total sales and installed (paid) sales to accurately evaluate performance. The top performers based on installed sales are:
@@ -46,7 +52,18 @@ It is crucial to differentiate between total sales and installed (paid) sales to
 
 This discrepancy highlights the need for a more nuanced understanding of sales performance beyond mere numbers.
 
+![image](https://github.com/Lydionnn/Ascent5-Sales-Analysis/assets/112720987/e24314ff-d1c6-4bab-8fe9-eb922b498cb6)
+
+![image](https://github.com/Lydionnn/Ascent5-Sales-Analysis/assets/112720987/f82b6096-547f-4aa1-bfa4-4bd0645740c5)
+
+
+
 #### Agents Warranting Promotion or Recognition
+
+We can see the installation rates across the top agents above 8 sales compared to the average installation rate for the office overall
+
+![image](https://github.com/Lydionnn/Ascent5-Sales-Analysis/assets/112720987/896e6608-908d-443c-b2e5-ac58eaa9ad2d)
+
 
 Further analysis reveals agents excelling in both sales volume and installation rate:
 
@@ -56,6 +73,9 @@ Further analysis reveals agents excelling in both sales volume and installation 
 - Junior Limon
 
 These individuals demonstrate exceptional sales acumen coupled with high installation rates, making them prime candidates for promotion or increased recognition.
+
+![image](https://github.com/Lydionnn/Ascent5-Sales-Analysis/assets/112720987/657d0b82-c4ab-4913-ba6d-7ce33382c024)
+
 
 #### Focus Areas for Specific Agents
 
